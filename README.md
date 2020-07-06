@@ -1,7 +1,8 @@
 # xtest
 
-This script is written & tested with PHP 7.3
-to run this in command line, call: $ php index.php
+This script is written & tested with PHP 7.3.
+to run this in command line, call: 
+> $ php index.php.
 This script using inputs defined by SUPPLIER_FILES (array of Suppliers files) and INVOICE_FILE (input invoice file).
 This script will stop immediatly when found a match, and print out the matched Id.
 
