@@ -2,7 +2,7 @@
 This is my answer for the test from Xtracta on July 7, 2020
 ------------------------
 
-This script is written & tested with PHP 7.3.
+This script is written & tested with PHP 7.3+
 
 to run this in command line, call: 
 > $ php index.php
