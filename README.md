@@ -3,7 +3,7 @@
 This script is written & tested with PHP 7.3.
 
 to run this in command line, call: 
-> $ php index.php.
+> $ php index.php
 
 This script using inputs defined by SUPPLIER_FILES (array of Suppliers files) and INVOICE_FILE (input invoice file).
 
