@@ -2,11 +2,11 @@
 const INVOICE_FILE = './test_files/invoice.txt';
 // List of supplier names, can be stored in multiple files
 const SUPPLIER_FILES = [
-    './test_files/data1.txt',
-    './test_files/data2.txt',
-    './test_files/data3.txt',
-    './test_files/data4.txt',
-    './test_files/data5.txt',
+    //'./test_files/data1.txt',
+    //'./test_files/data2.txt',
+    //'./test_files/data3.txt',
+    //'./test_files/data4.txt',
+    //'./test_files/data5.txt',
     './test_files/suppliernames.txt',
 ];
 
